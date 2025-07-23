@@ -1,2 +1,1 @@
-# RAG-with-Company-Policy-Data
-RAG With GPT with Internal Company Policy Data
+🤖 Interactive RAG vs LLM comparison with 3D embedding visualization. Shows how context transforms generic AI into company-specific intelligence. Built with DPR, FAISS, GPT-2, and Streamlit. Perfect demo of why enterprises need RAG, not just LLMs.
