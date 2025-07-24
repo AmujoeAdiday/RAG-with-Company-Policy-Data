@@ -6,6 +6,7 @@
 > **Transform generic AI responses into company-specific intelligence**  
 > An interactive demonstration showing why enterprises need RAG, not just LLMs.
 
+<img width="896" height="797" alt="RAG-impact" src="https://github.com/user-attachments/assets/5a3a8465-024c-408e-813c-be6a9af10640" />
 
 ## 🎯 What This Demonstrates
 
@@ -31,6 +32,7 @@
 
 ## 🏗️ Technical Architecture
 ### Tech Stack:
+<img width="870" height="751" alt="RAG_Technical_Flow" src="https://github.com/user-attachments/assets/91a2974e-395c-4b7a-805e-108ac742dd31" />
 
 - **🔍 Retrieval**: DPR (Dense Passage Retrieval) from Facebook Research
 - **⚡ Search**: FAISS for lightning-fast similarity search
